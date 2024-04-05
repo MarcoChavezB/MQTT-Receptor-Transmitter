@@ -2,7 +2,7 @@ import paho.mqtt.client as mqtt
 import time
 
 # Configura los parámetros de conexión MQTT
-MQTT_BROKER = "test.mosquitto.org"
+MQTT_BROKER = "18.222.218.229"
 MQTT_PORT = 1883
 MQTT_TOPIC = "led_control"
 
